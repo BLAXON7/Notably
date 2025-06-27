@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server: 
+
+#DONT FORGET TO ADD THE .ENV.LOCAL FILE IN PROJECT WHERE NEXT_SUPABASE_URL AND NEXT_SUPABASE_ANON_KEY IS REQUIRED
 
 ```bash
 npm run dev
